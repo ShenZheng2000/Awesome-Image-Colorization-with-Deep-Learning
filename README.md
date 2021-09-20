@@ -88,6 +88,9 @@ This is a collection of recent papers that is related to image colorization with
 [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5206848&casa_token=NWmBFwG3SGQAAAAA:hI9eiR3-xqdtS_AK3vn-oM7PV_NtTwEPJBfujoeb6Xpwpj4XW5aP6yv9SEQmhQOPiTfr-i_F-Vl9)]
 [[Dataset](https://image-net.org/challenges/LSVRC/index.php)]
 
+# Evaluation Metrics
+TODO
+
 # Surveys
 * Image colorization: A survey and dataset
 [[Paper](https://arxiv.org/abs/2008.10774)]
