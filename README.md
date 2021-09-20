@@ -67,15 +67,31 @@ This is a collection of recent papers that is related to image colorization with
 
 
 # Datasets
-* Deep Colorization
-[[Paper](https://openaccess.thecvf.com/content_iccv_2015/html/Cheng_Deep_Colorization_ICCV_2015_paper.html)]
-  * Zhang, Richard, Phillip Isola, and Alexei A. Efros. "Colorful image colorization." **(ICCV 2015)**
+* Natural-Color Dataset 
+[[Paper](https://arxiv.org/abs/2008.10774)] 
+[[Gray](https://drive.google.com/file/d/1GpmEVNFn12bK0EoXK46FP3cXFUosomaG/view)] 
+[[Color](https://drive.google.com/file/d/1k_UvYzdrHbphW4UcbDb9jWB0ZQIAGEAo/view)] 
+
+* COCO-stuff 
+[[Paper](https://openaccess.thecvf.com/content_cvpr_2018/html/Caesar_COCO-Stuff_Thing_and_CVPR_2018_paper)]
+[[Dataset](https://github.com/nightrome/cocostuff#downloads)]
+
+* PASCAL VOC 
+[[Paper](https://link.springer.com/content/pdf/10.1007/s11263-009-0275-4.pdf)]
+[[Dataset](http://host.robots.ox.ac.uk/pascal/VOC/)]
+
+* CIFAR
+[[Paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.222.9220&rep=rep1&type=pdf)]
+[[Dataset](https://www.cs.toronto.edu/~kriz/cifar.html)]
+
+* ImageNet ILSVRC2012
+[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5206848&casa_token=NWmBFwG3SGQAAAAA:hI9eiR3-xqdtS_AK3vn-oM7PV_NtTwEPJBfujoeb6Xpwpj4XW5aP6yv9SEQmhQOPiTfr-i_F-Vl9)]
+[[Dataset](https://image-net.org/challenges/LSVRC/index.php)]
 
 # Surveys
 * Image colorization: A survey and dataset
 [[Paper](https://arxiv.org/abs/2008.10774)]
   * Anwar, Saeed, et al. "Image colorization: A survey and dataset." **(Arxiv 2020)**
-
 
 # Related Repositories
 1. [Awesome-Image-Colorization](https://github.com/MarkMoHR/Awesome-Image-Colorization)
