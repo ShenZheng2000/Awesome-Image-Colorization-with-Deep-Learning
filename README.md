@@ -57,7 +57,8 @@ This is a collection of recent papers that is related to image colorization with
 [[Paper](https://arxiv.org/abs/1603.06668)]
 [[Caffe](https://github.com/gustavla/autocolorize)]
   * Isola, Phillip, et al. "Image-to-image translation with conditional adversarial networks." **(ECCV 2016)
-**
+
+
 **2015**
 * Deep Colorization
 [[Paper](https://openaccess.thecvf.com/content_iccv_2015/html/Cheng_Deep_Colorization_ICCV_2015_paper.html)]
@@ -66,10 +67,15 @@ This is a collection of recent papers that is related to image colorization with
 
 
 # Datasets
-TODO
+* Deep Colorization
+[[Paper](https://openaccess.thecvf.com/content_iccv_2015/html/Cheng_Deep_Colorization_ICCV_2015_paper.html)]
+  * Zhang, Richard, Phillip Isola, and Alexei A. Efros. "Colorful image colorization." **(ICCV 2015)**
 
 # Surveys
-TODO
+* Image colorization: A survey and dataset
+[[Paper](https://arxiv.org/abs/2008.10774)]
+  * Anwar, Saeed, et al. "Image colorization: A survey and dataset." **(Arxiv 2020)**
+
 
 # Related Repositories
 1. [Awesome-Image-Colorization](https://github.com/MarkMoHR/Awesome-Image-Colorization)
