@@ -72,7 +72,8 @@ TODO
 TODO
 
 # Related Repositories
-TODO
+1. [Awesome-Image-Colorization](https://github.com/MarkMoHR/Awesome-Image-Colorization)
+2. [Awesome-Deep-Colorization](https://github.com/mikigom/Awesome-Deep-Colorization)
 
 # Contacts
 zhengsh at kean dot edu
