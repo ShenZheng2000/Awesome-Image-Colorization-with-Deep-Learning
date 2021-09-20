@@ -7,6 +7,7 @@ This is a collection of recent papers that is related to image colorization with
 [Paper](https://arxiv.org/pdf/2102.04432)
 [Tensorflow](https://github.com/google-research/google-research)
 [OpenReview](https://openreview.net/forum?id=5NA1PinlGFu)
+
 Kumar, Manoj, Dirk Weissenborn, and Nal Kalchbrenner. "Colorization transformer." (ICLR 2021)
 
 2020
@@ -14,10 +15,14 @@ Kumar, Manoj, Dirk Weissenborn, and Nal Kalchbrenner. "Colorization transformer.
 2019
 
 # Datasets
+TODO
 
 # Surveys
+TODO
 
 # Related Repositories
+TODO
 
 # Contacts
+zhengsh at kean dot edu
 
