@@ -1,4 +1,4 @@
-# Awesome-Image-Colorization-with-Deep-Learning
+# Awesome-Image-Colorization-with-Deep-Learning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 This is a collection of recent papers that is related to image colorization with deep learning. 
 
 # Papers
