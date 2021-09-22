@@ -23,11 +23,10 @@ This is a collection of recent papers that is related to image colorization with
 [[Code](https://github.com/Time-Travel-Rephotography/Time-Travel-Rephotography.github.io#time-travel-rephotographygithubio)]
   * Luo, Xuan, et al. "Time-travel rephotography." **(Arxiv 2020)**
 
-**2020**
 * Chromagan: Adversarial picture colorization with semantic class distribution
 [[Paper](https://openaccess.thecvf.com/content_WACV_2020/html/Vitoria_ChromaGAN_Adversarial_Picture_Colorization_with_Semantic_Class_Distribution_WACV_2020_paper.html)]
 [[Keras](https://github.com/pvitoria/ChromaGAN)]
-  * Vitoria, Patricia, Lara Raad, and Coloma Ballester. "Chromagan: Adversarial picture colorization with semantic class distribution." **(CVPR 2020)**
+  * Vitoria, Patricia, Lara Raad, and Coloma Ballester. "Chromagan: Adversarial picture colorization with semantic class distribution." **(WACV 2020)**
 
 **2019**
 
