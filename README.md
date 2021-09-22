@@ -23,6 +23,12 @@ This is a collection of recent papers that is related to image colorization with
 [[Code](https://github.com/Time-Travel-Rephotography/Time-Travel-Rephotography.github.io#time-travel-rephotographygithubio)]
   * Luo, Xuan, et al. "Time-travel rephotography." **(Arxiv 2020)**
 
+**2020**
+* Chromagan: Adversarial picture colorization with semantic class distribution
+[[Paper](https://openaccess.thecvf.com/content_WACV_2020/html/Vitoria_ChromaGAN_Adversarial_Picture_Colorization_with_Semantic_Class_Distribution_WACV_2020_paper.html)]
+[[Keras](https://github.com/pvitoria/ChromaGAN)]
+  * Vitoria, Patricia, Lara Raad, and Coloma Ballester. "Chromagan: Adversarial picture colorization with semantic class distribution." **(CVPR 2020)**
+
 **2019**
 
 
@@ -65,7 +71,6 @@ This is a collection of recent papers that is related to image colorization with
   * Zhang, Richard, Phillip Isola, and Alexei A. Efros. "Colorful image colorization." **(ICCV 2015)**
 
 
-
 # Datasets
 * Natural-Color Dataset 
 [[Paper](https://arxiv.org/abs/2008.10774)] 
@@ -89,7 +94,12 @@ This is a collection of recent papers that is related to image colorization with
 [[Dataset](https://image-net.org/challenges/LSVRC/index.php)]
 
 # Evaluation Metrics
-TODO
+PSNR [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5596999&casa_token=45dLSWUQkDIAAAAA:MhWYq5VhLFLJGzXKIUlpVr9WGg63oH1UuuBh9Yn4yaYjgAB1gJE9uY_ylQRtDG4EvsmMSyrv5pBL&tag=1)[Python](https://github.com/ShenZheng2000/Low_level_Vision_Metrics)
+SSIM [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5596999&casa_token=45dLSWUQkDIAAAAA:MhWYq5VhLFLJGzXKIUlpVr9WGg63oH1UuuBh9Yn4yaYjgAB1gJE9uY_ylQRtDG4EvsmMSyrv5pBL&tag=1)[Python](https://github.com/ShenZheng2000/Low_level_Vision_Metrics)
+FID  [paper](https://arxiv.org/pdf/1706.08500.pdf)
+LPIPS  [paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_The_Unreasonable_Effectiveness_CVPR_2018_paper.pdf)
+
+TODO: Python implementation for FID and LPIPS
 
 # Surveys
 * Image colorization: A survey and dataset
@@ -99,6 +109,7 @@ TODO
 # Related Repositories
 1. [Awesome-Image-Colorization](https://github.com/MarkMoHR/Awesome-Image-Colorization)
 2. [Awesome-Deep-Colorization](https://github.com/mikigom/Awesome-Deep-Colorization)
+3. [Colorization](https://paperswithcode.com/task/colorization)
 
 # Contacts
 zhengsh at kean dot edu
