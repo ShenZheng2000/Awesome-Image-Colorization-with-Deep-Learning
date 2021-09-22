@@ -56,7 +56,7 @@ This is a collection of recent papers that is related to image colorization with
 * Learning Representations for Automatic Colorization
 [[Paper](https://arxiv.org/abs/1603.06668)]
 [[Caffe](https://github.com/gustavla/autocolorize)]
-  * Isola, Phillip, et al. "Image-to-image translation with conditional adversarial networks." **(ECCV 2016)
+  * Isola, Phillip, et al. "Image-to-image translation with conditional adversarial networks." **(ECCV 2016)**
 
 
 **2015**
