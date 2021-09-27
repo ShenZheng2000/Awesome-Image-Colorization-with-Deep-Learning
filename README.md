@@ -32,12 +32,12 @@ This is a collection of recent papers that is related to image colorization with
 * Coloring With Limited Data: Few-Shot Colorization via Memory Augmented Networks
 [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Yoo_Coloring_With_Limited_Data_Few-Shot_Colorization_via_Memory_Augmented_Networks_CVPR_2019_paper.pdf)]
 [[Pytorch](https://github.com/dongheehand/MemoPainter-PyTorch)]
- * Yoo, Seungjoo, et al. "Coloring with limited data: Few-shot colorization via memory augmented networks." **(CVPR 2019)**
+  * Yoo, Seungjoo, et al. "Coloring with limited data: Few-shot colorization via memory augmented networks." **(CVPR 2019)**
 
 * Fully automatic video colorization with self-regularization and diversity
 [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Lei_Fully_Automatic_Video_Colorization_With_Self-Regularization_and_Diversity_CVPR_2019_paper.pdf)]
 [[Pytorch](https://github.com/ChenyangLEI/automatic-video-colorization)]
- * Lei, Chenyang, and Qifeng Chen. "Fully automatic video colorization with self-regularization and diversity." **(CVPR 2019)**
+  * Lei, Chenyang, and Qifeng Chen. "Fully automatic video colorization with self-regularization and diversity." **(CVPR 2019)**
 
 **2018**
 * Pixel-level Semantics Guided Image Colorization
