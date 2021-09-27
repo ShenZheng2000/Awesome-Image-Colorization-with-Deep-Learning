@@ -101,11 +101,9 @@ SSIM
 [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5596999&casa_token=45dLSWUQkDIAAAAA:MhWYq5VhLFLJGzXKIUlpVr9WGg63oH1UuuBh9Yn4yaYjgAB1gJE9uY_ylQRtDG4EvsmMSyrv5pBL&tag=1)]
 [[Python](https://github.com/ShenZheng2000/Low_level_Vision_Metrics)]
 
-FID  
-[[paper](https://arxiv.org/pdf/1706.08500.pdf)]
+FID  [[paper](https://arxiv.org/pdf/1706.08500.pdf)]
 
-LPIPS  
-[[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_The_Unreasonable_Effectiveness_CVPR_2018_paper.pdf)]
+LPIPS  [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_The_Unreasonable_Effectiveness_CVPR_2018_paper.pdf)]
 
 TODO: Python implementation for FID and LPIPS
 
