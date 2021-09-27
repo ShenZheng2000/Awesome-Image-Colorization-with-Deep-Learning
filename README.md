@@ -42,7 +42,7 @@ This is a collection of recent papers that is related to image colorization with
 **2018**
 * Pixel-level Semantics Guided Image Colorization
 [[Paper](https://arxiv.org/pdf/1808.01597v1.pdf)]
- * Zhao, Jiaojiao, et al. "Pixel-level semantics guided image colorization." **(BMVC 2018)**
+  * Zhao, Jiaojiao, et al. "Pixel-level semantics guided image colorization." **(BMVC 2018)**
 
 **2017**
 * Learning Diverse Image Colorization
