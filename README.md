@@ -77,7 +77,7 @@ This is a collection of recent papers that is related to image colorization with
 **2015**
 * Deep Colorization
 [[Paper](https://openaccess.thecvf.com/content_iccv_2015/html/Cheng_Deep_Colorization_ICCV_2015_paper.html)]
-  * Zhang, Richard, Phillip Isola, and Alexei A. Efros. "Colorful image colorization." **(ICCV 2015)**
+  * Cheng, Zezhou, Qingxiong Yang, and Bin Sheng. "Deep colorization." **(ICCV 2015)**
 
 
 # Datasets
