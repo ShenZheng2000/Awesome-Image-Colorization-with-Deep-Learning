@@ -4,6 +4,9 @@ This is a collection of recent papers that is related to image colorization with
 # Papers
 
 **2021**
+* Towards Vivid and Diverse Image Colorization with Generative Color Prior
+[[Paper](https://arxiv.org/pdf/2108.08826.pdf)]
+  * Wu, Yanze, et al. "Towards Vivid and Diverse Image Colorization with Generative Color Prior." **(ICCV 2021)**
 
 * Colorization transformer
 [[Paper](https://arxiv.org/abs/2102.04432)]
