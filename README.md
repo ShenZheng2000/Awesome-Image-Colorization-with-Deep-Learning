@@ -26,7 +26,7 @@ This is a collection of recent papers that is related to image colorization with
 [[Code](https://github.com/Time-Travel-Rephotography/Time-Travel-Rephotography.github.io#time-travel-rephotographygithubio)]
   * Luo, Xuan, et al. "Time-travel rephotography." **(Arxiv 2020)**
 
-* Chromagan: Adversarial picture colorization with semantic class distribution
+* Chromagan
 [[Paper](https://openaccess.thecvf.com/content_WACV_2020/html/Vitoria_ChromaGAN_Adversarial_Picture_Colorization_with_Semantic_Class_Distribution_WACV_2020_paper.html)]
 [[Keras](https://github.com/pvitoria/ChromaGAN)]
   * Vitoria, Patricia, Lara Raad, and Coloma Ballester. "Chromagan: Adversarial picture colorization with semantic class distribution." **(WACV 2020)**
@@ -53,7 +53,7 @@ This is a collection of recent papers that is related to image colorization with
 [[Tensorflow](https://github.com/aditya12agd5/divcolor)]
   * Deshpande, Aditya, et al. "Learning diverse image colorization." **(CVPR 2017)**
 
-* Image-to-Image Translation with Conditional Adversarial Networks
+* Pix2Pix
 [[Paper](https://openaccess.thecvf.com/content_cvpr_2017/html/Isola_Image-To-Image_Translation_With_CVPR_2017_paper.html)]
 [[Pytorch](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)]
   * Isola, Phillip, et al. "Image-to-image translation with conditional adversarial networks." **(CVPR 2017)**
